@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giabao12
 - 👀 I’m interested in music and playing game
-- 🌱 I’m currently learning C, Java and C#
+- 🌱 I’m currently learning C#, SQL, .Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
