@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gia Bao
 ===============================================================================================================================
 
-Frontend Developer
+Backend Developer
 ------------------
 
 I am a C# developer who has transitioned to working primarily in frontend development using ReactJS. With a background in C# and backend programming, I have shifted my focus to frontend technologies, particularly ReactJS, where I specialize in creating engaging and responsive user interfaces. My experience in C# development enriches my approach to building frontend solutions, allowing me to leverage a diverse skill set in both backend and frontend realms.
