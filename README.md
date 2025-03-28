@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a C# developer who has transitioned to working primarily in frontend development using ReactJS & Flutter. With a background in C# and backend programming, I have shifted my focus to frontend technologies, particularly ReactJS & Flutter, where I specialize in creating engaging and responsive user interfaces. My experience in C# development enriches my approach to building frontend solutions, allowing me to leverage a diverse skill set in both backend and frontend realms.
+I am a C# developer who has transitioned to working primarily in frontend development using ReactJS & NextJS. With a background in C# and backend programming, I have shifted my focus to frontend technologies, particularly ReactJS & NextJS, where I specialize in creating engaging and responsive user interfaces. My experience in C# development enriches my approach to building frontend solutions, allowing me to leverage a diverse skill set in both backend and frontend realms.
 
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam
 * ✉️  You can contact me at [nguyenhiengiabao12@gmail.com](mailto:nguyenhiengiabao12@gmail.com)
-* 🧠  I'm learning C# (ASP.NET Core), ReactJS, Flutter, TailwindCSS, JavaScript/TypeScript
+* 🧠  I'm learning C# (ASP.NET Core), ReactJS, NextJS, TailwindCSS, JavaScript/TypeScript
 * 🤝  I'm open to collaborating on Other drone projects!
 * ⚡  I enjoy photography, listening to music, and engaging in conversations with everyone around me.
 
