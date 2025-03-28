@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Hello, I'm Gia Bao. I am a Frontend Developer specializing in ReactJS & NextJS, using Tailwind CSS and various UI component libraries to build modern, responsive, and high-performance user interfaces. My focus is on delivering smooth user experiences with maintainable and scalable frontend architectures.<br><br>While my expertise lies in frontend development, I also work with C# (.NET & Entity Framework) to build backend services when necessary. Additionally, I leverage Docker for efficient deployment and containerized environments.<br><br>- 🌍  I'm based in Ho Chi Minh City, Viet Nam<br>- ✉️  You can contact me at: nguyenhiengiabao12@gmail.com<br>- 🧠  I'm learning C# (ASP.NET Core), ReactJS, NextJS, TailwindCSS, JavaScript/TypeScript<br>- 🤝  I'm open to collaborating on Other drone projects!<br>- ⚡  I enjoy photography, listening to music, and engaging in conversations with everyone around me.</p>
+<p align="left">Hello, I'm Gia Bao. I am a Frontend Developer specializing in <strong>ReactJS & NextJS</strong>, using <strong>Tailwind CSS</strong> and various UI component libraries to build modern, responsive, and high-performance user interfaces. My focus is on delivering smooth user experiences with maintainable and scalable frontend architectures.<br><br>While my expertise lies in frontend development, I also work with <strong>C# (.NET & Entity Framework)</strong> to build backend services when necessary. Additionally, I leverage Docker for efficient deployment and containerized environments.<br><br>- 🌍  I'm based in Ho Chi Minh City, Viet Nam<br>- ✉️  You can contact me at: <a href="mailto:nguyenhiengiabao12@gmail.com">nguyenhiengiabao12@gmail.com</a><br>- 🧠  I'm learning <strong>C# (ASP.NET Core), ReactJS, NextJS, TailwindCSS, JavaScript/TypeScript</strong><br>- 🤝  I'm open to collaborating on Other drone projects!<br>- ⚡  I enjoy photography, listening to music, and engaging in conversations with everyone around me.</p>
 
 ###
 
@@ -87,14 +87,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao12-hali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=giabao12-hali&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
