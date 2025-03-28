@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">Front-end Web Developer</h4>
+<h4 align="left">Front-End Web Developer</h4>
 
 ###
 
@@ -87,6 +87,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao12-hali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=giabao12-hali&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
