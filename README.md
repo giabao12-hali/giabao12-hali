@@ -38,11 +38,11 @@
 
 ###
 
-<h4 align="left">Fullstack Web Developer</h4>
+<h4 align="left">Front-end Web Developer</h4>
 
 ###
 
-<p align="left">Hello, I'm Gia Bao. I am a C# developer who has transitioned to working primarily in frontend development using ReactJS & NextJS. With a background in C# and backend programming, I have shifted my focus to frontend technologies, particularly ReactJS & NextJS, where I specialize in creating engaging and responsive user interfaces. My experience in C# development enriches my approach to building frontend solutions, allowing me to leverage a diverse skill set in both backend and frontend realms.<br><br>- 🌍  I'm based in Ho Chi Minh City, Viet Nam<br>- ✉️  You can contact me at: nguyenhiengiabao12@gmail.com<br>- 🧠  I'm learning C# (ASP.NET Core), ReactJS, NextJS, TailwindCSS, JavaScript/TypeScript<br>- 🤝  I'm open to collaborating on Other drone projects!<br>- ⚡  I enjoy photography, listening to music, and engaging in conversations with everyone around me.</p>
+<p align="left">Hello, I'm Gia Bao. I am a Frontend Developer specializing in ReactJS & NextJS, using Tailwind CSS and various UI component libraries to build modern, responsive, and high-performance user interfaces. My focus is on delivering smooth user experiences with maintainable and scalable frontend architectures.<br><br>While my expertise lies in frontend development, I also work with C# (.NET & Entity Framework) to build backend services when necessary. Additionally, I leverage Docker for efficient deployment and containerized environments.<br><br>- 🌍  I'm based in Ho Chi Minh City, Viet Nam<br>- ✉️  You can contact me at: nguyenhiengiabao12@gmail.com<br>- 🧠  I'm learning C# (ASP.NET Core), ReactJS, NextJS, TailwindCSS, JavaScript/TypeScript<br>- 🤝  I'm open to collaborating on Other drone projects!<br>- ⚡  I enjoy photography, listening to music, and engaging in conversations with everyone around me.</p>
 
 ###
 
