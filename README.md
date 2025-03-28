@@ -96,14 +96,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giabao12-hali/giabao12-hali/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h3 align="left">🎧  I listen music a lot:</h3>
 
 ###
