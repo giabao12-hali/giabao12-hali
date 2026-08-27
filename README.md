@@ -96,6 +96,6 @@
 
 ###
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21jdux6a366zaux6htmp7g7gy&count=6&width=500&radius=22&duration=1&album=1&footer=wave)](https://open.spotify.com/user/21jdux6a366zaux6htmp7g7gy)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21jdux6a366zaux6htmp7g7gy&count=6&radius=22&duration=1&album=1&footer=wave)](https://open.spotify.com/user/21jdux6a366zaux6htmp7g7gy)
 
 ###
