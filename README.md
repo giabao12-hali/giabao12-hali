@@ -83,8 +83,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giabao12-hali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giabao12-hali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=giabao12-hali&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
 </div>
 
@@ -98,10 +96,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/21jdux6a366zaux6htmp7g7gy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21jdux6a366zaux6htmp7g7gy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21jdux6a366zaux6htmp7g7gy&count=6&width=500&radius=22&duration=1&album=1&footer=wave)](https://open.spotify.com/user/21jdux6a366zaux6htmp7g7gy)
 
 ###
